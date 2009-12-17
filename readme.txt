@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: leewillis77
+Donate link: http://www.leewillis.co.uk/wordpress-plugins/
 Tags: twitter, google analytics
 Requires at least: 2.8.1
 Tested up to: 2.8.5
