@@ -1,9 +1,10 @@
 === Plugin Name ===
 Contributors: leewillis77
+Donate link: http://www.leewillis.co.uk/wordpress-plugins/
 Tags: twitter, google analytics
 Requires at least: 2.8.1
-Tested up to: 2.8.5
-Stable tag: 1.0
+Tested up to: 2.9
+Stable tag: 1.1
 
 Add Google Analytics tracking values to URLS posted by the Twitter Tools plugin.
 

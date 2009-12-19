@@ -3,7 +3,7 @@
 Plugin Name: Twitter Tools Tagger
 Plugin URI: http://www.leewillis.co.uk/wordpress-plugins/
 Description: Tag blog tweets with Google Analytics tracking code
-Version: 1.0
+Version: 1.1
 Author: Lee Willis
 Author URI: http://www.leewillis.co.uk/
 */
