@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Twitter Tools Tagger
-Plugin URI: http://www.leewillis.co.uk/wordpress-plugins/
+Plugin URI: http://www.leewillis.co.uk/wordpress-plugins/?utm_source=wordpress&utm_medium=www&utm_campaign=twitter-tools-analytics-tracking
 Description: Tag blog tweets with Google Analytics tracking code
 Version: 1.1
 Author: Lee Willis
-Author URI: http://www.leewillis.co.uk/
+Author URI: http://www.leewillis.co.uk/?utm_source=wordpress&utm_medium=www&utm_campaign=twitter-tools-analytics-tracking
 */
 
 function ses_url_tagger($url) {
